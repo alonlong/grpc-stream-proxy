@@ -3,7 +3,6 @@ module grpc-stream-proxy
 go 1.16
 
 require (
-	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.5
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
